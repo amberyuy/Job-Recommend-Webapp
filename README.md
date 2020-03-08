@@ -2,6 +2,10 @@
 
 This is an interactive web page provides company and position informations retrieved from GitHub API for users to search and apply jobs.
 
+You can click http://18.220.109.151/jupiter/ to visit this site.
+
+Note: This website provides jobs information based on your geographical location. Therefore, you might not get job items because the Github API does not have items related to your geographical location.
+
 ## Introduction
 Front End:
 
